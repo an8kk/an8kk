@@ -1,6 +1,6 @@
 <!--
 README.md for github.com/an8kk/an8kk
-v0 draft: minimal dark profile, not final.
+profile README: minimal dark profile, not final.
 -->
 
 <div align="center">
