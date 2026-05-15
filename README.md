@@ -66,10 +66,10 @@ focus: queues, retries, workers, failure handling, backend infrastructure
 
 #### [ChessView](https://github.com/TheFueki/ChessView)
 
-Team / pinned project around chess visualization and tooling.
+Real-time multiplayer chess platform with server-authoritative gameplay, WebSocket state sync, ratings, tournaments, replay, puzzles, and browser-local Stockfish analysis.
 
 ```txt
-focus: webRTC, WS, concurrency
+focus: FastAPI, WebSockets, PostgreSQL, async SQLAlchemy, real-time state, domain-oriented backend
 ```
 
 #### private / work-in-progress
