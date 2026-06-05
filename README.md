@@ -19,13 +19,13 @@ profile README: minimal dark profile, not final.
 
 <p align="center">
   <a href="https://an8kk.dev">
-    <img src="https://img.shields.io/badge/portfolio-an8kk.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="portfolio" />
+    <img src="https://img.shields.io/static/v1?label=&message=AN8KK.DEV&color=161B22&style=for-the-badge&logo=vercel&logoColor=7EE787" alt="portfolio" />
   </a>
   <a href="https://t.me/an8kkk">
-    <img src="https://img.shields.io/badge/telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=58A6FF" alt="telegram" />
+    <img src="https://img.shields.io/static/v1?label=&message=TELEGRAM&color=1F6FEB&style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="telegram" />
   </a>
   <a href="https://github.com/itsVentie">
-    <img src="https://img.shields.io/badge/team-itsVentie-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="team" />
+    <img src="https://img.shields.io/static/v1?label=&message=ITSVENTIE&color=30363D&style=for-the-badge&logo=github&logoColor=F0F6FC" alt="team" />
   </a>
 </p>
 
