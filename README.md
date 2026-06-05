@@ -18,6 +18,9 @@ profile README: minimal dark profile, not final.
 </p>
 
 <p align="center">
+  <a href="https://an8kk.dev">
+    <img src="https://img.shields.io/badge/portfolio-an8kk.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="portfolio" />
+  </a>
   <a href="https://t.me/an8kkk">
     <img src="https://img.shields.io/badge/telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=58A6FF" alt="telegram" />
   </a>
